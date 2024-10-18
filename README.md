@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 <h3 align="center">Passionated software development student with focus on embedded.</h3>
 
-- 🌱 I’m currently learning **Golang because of the combination of python syntax and java scalability capabilities aswell as being a compiled language**
+🌱 I’m currently learning **Golang** because it strikes a perfect balance between simplicity and performance. It combines the readability and ease of use of Python with the scalability and strong concurrency support of languages like Java. Go's compiled nature ensures high efficiency, making it ideal for performance-critical applications, and its lightweight syntax promotes clean and maintainable code. Since my focus is on embedded systems, Go's efficiency and concurrency model offer promising solutions for scalable systems and resource-constrained environments.
 
 - 🤝 Connect with me on Linkedin [https://www.linkedin.com/in/erik-pettersson-57b8ab250/](https://www.linkedin.com/in/erik-pettersson-57b8ab250/)
 
