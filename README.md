@@ -14,7 +14,6 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petterssonb&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petterssonb&layout=compact&theme=github_dark_dimmed" alt="Top Languages" />
   </a>
 </p>
