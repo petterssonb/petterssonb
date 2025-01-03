@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 <h3 align="center">Passionated software development student with focus on embedded.</h3>
 
+
 - 🤝 Connect with me on Linkedin [https://www.linkedin.com/in/erik-pettersson-57b8ab250/](https://www.linkedin.com/in/erik-pettersson-57b8ab250/)
 
 - 📫 Email: **erik.pettersson@yh.nackademin.se**
