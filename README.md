@@ -2,7 +2,7 @@
 <h3 align="center">Passionated software engineer.</h3>
 
 
-- 🤝 Connect with me on Linkedin [Linkedin](https://www.linkedin.com/in/erik-pettersson-57b8ab250/)
+- 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/erik-pettersson-57b8ab250/)
 
 - 📫 Email: **erikpettersson02@gmail.com**
 
